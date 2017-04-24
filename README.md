@@ -5,6 +5,8 @@ common/config/main-local.php
 
 вместо миграции, просто импортируйте yii2advanced.sql(в корне сайта) в вашу бд.
 
+стандартные action не удалялись. проект в режиме dev.
+
 Yii 2 Advanced Project Template
 ===============================
 
