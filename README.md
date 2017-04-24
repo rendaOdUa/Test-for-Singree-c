@@ -3,6 +3,8 @@
 common/config/main-local.php
 'dsn' => 'mysql:host=localhost;dbname=yii2advanced', username' => 'root', password' => '',
 
+вместо миграции, просто импортируйте yii2advanced.sql(в корне сайта) в вашу бд.
+
 Yii 2 Advanced Project Template
 ===============================
 
