@@ -1,3 +1,8 @@
+корневой .htaccess настроен на работу из корневой локальной директории www.
+
+common/config/main-local.php
+'dsn' => 'mysql:host=localhost;dbname=yii2advanced', username' => 'root', password' => '',
+
 Yii 2 Advanced Project Template
 ===============================
 
